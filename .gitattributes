@@ -1,0 +1,8 @@
+.yml filter=lfs diff=lfs merge=lfs -text
+*.yml filter=lfs diff=lfs merge=lfs -text
+*.yml- filter=lfs diff=lfs merge=lfs -text
+*.yml-* filter=lfs diff=lfs merge=lfs -text
+*.yml* filter=lfs diff=lfs merge=lfs -text
+classificadorEigen.yml filter=lfs diff=lfs merge=lfs -text
+classificadorFischer.yml filter=lfs diff=lfs merge=lfs -text
+classificadorLBPH.yml filter=lfs diff=lfs merge=lfs -text
